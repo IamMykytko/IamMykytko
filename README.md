@@ -18,6 +18,12 @@
   - [GitLab]()
   - [Bitbucket]()
   - [Microsoft Azure]()
+- _Social Networks_
+  - [Instagram]()
+  - [Telegram]()
+  - [Viber]()
+  - [Signal]()
 
-[📫 Reach me out!](mailto:iammykytko@gmail.com)
-[📞 Or call me!](tel:+380689989845)
+#### My contacts
+- [📫 Reach me out!](mailto:iammykytko@gmail.com)
+- [📞 Or call me!](tel:+380689989845)
