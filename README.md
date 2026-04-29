@@ -1,3 +1,6 @@
+https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FIamMykytko
+
+
 ## Hi there 👋
 
 ### My Links
