@@ -29,5 +29,6 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/Kdenlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=white&labelColor=black)
 
 
-
-
+<br/>
+<br/>
+![Mykyta's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamMykytko&show_icons=true&theme=transparent)
