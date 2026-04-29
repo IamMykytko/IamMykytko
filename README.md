@@ -28,7 +28,10 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/GIMP-%238C8073?style=for-the-badge&logo=gimp&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Kdenlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=white&labelColor=black)
 
+---
+### My stats
+![IamMykytko's Stats](https://github-readme-stats.vercel.app/api?username=IamMykytko&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![IamMykytko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamMykytko&theme=vue-dark&hide_border=true)
+![IamMykytko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamMykytko&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-<br/>
-<br/>
-![Mykyta's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamMykytko&show_icons=true&theme=transparent)
