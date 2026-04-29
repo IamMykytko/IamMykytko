@@ -4,4 +4,5 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 
 📫 Reach me out!
 
+![Static Badge](https://img.shields.io/badge/Instagram-%23FF0069?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fiammykytko%2F)
 ![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FIamMykytko)
