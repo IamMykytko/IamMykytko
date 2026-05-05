@@ -43,6 +43,7 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ###### DevOps and Server's parts
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23301934?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=for-the-badge&logo=github%20actions&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Bitbucket-%230052CC?style=for-the-badge&logo=bitbucket&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Azure-%23008AD7?style=for-the-badge&logo=astra&logoColor=white&labelColor=black)
@@ -67,6 +68,9 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/Adobe%20Tools-%23CC0000?style=for-the-badge&logo=graphite_editor&logoColor=white&labelColor=black)
 
 ###### Other
+![Static Badge](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Microsoft%20Office-%23D0120D?style=for-the-badge&logo=LibreOffice&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Google%20Workspaces-%234285F4?style=for-the-badge&logo=google%20docs&logoColor=white&labelColor=black)
 
 ---
 ### My stats
