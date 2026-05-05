@@ -43,14 +43,14 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
   <summary>My repos</summary>
   <ul>
     <li><a href='https://gtihub.com/IamMykytko/Portfolio' target='_blank'>My portfolio-project</a></li>
-    <li><a href='https://github.com/DiD0LEKSA/CoCUA-public-' target='_blank'>Ukrainizator for the game named "Call of Cthulhu" (repo owned by my friend)</a></li>
+    <li><a href='https://github.com/IamMykytko/Call-of-Cthulhu-ukrainizator' target='_blank'>Ukrainizator for the game named "Call of Cthulhu"</a></li>
     <li><a href='https://gtihub.com/IamMykytko/pet-proj-calculator' target='_blank'>Pet-project №1 - "Calucaltor"</a></li>
   </ul>
 </details>
 <details>
   <summary>Other projects in which I participate</summary>
   <ul>
-    <li><a href='https://github.com/IamMykytko/Call-of-Cthulhu-ukrainizator' target='_blank'>Ukrainizator for the game named "Call of Cthulhu"</a></li>
+    <li><a href='https://github.com/DiD0LEKSA/CoCUA-public-' target='_blank'>Ukrainizator for the game named "Call of Cthulhu" (other repo owned by my friend)</a></li>
   </ul>
 </details>
 <details>
