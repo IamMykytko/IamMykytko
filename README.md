@@ -76,11 +76,11 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 
 ---
 ### My stats
-![IamMykytko's Stats](https://github-readme-stats.vercel.app/api?username=IamMykytko&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- ![IamMykytko's Stats](https://github-readme-stats.vercel.app/api?username=IamMykytko&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 ![IamMykytko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamMykytko&theme=vue-dark&hide_border=true)
 
-![IamMykytko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamMykytko&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<!-- ![IamMykytko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamMykytko&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
 
 ---
 ### Navigation
