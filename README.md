@@ -15,7 +15,9 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ### Top technologies
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
@@ -24,6 +26,7 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Podman-%23892CA0?style=for-the-badge&logo=podman&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=Arch%20Linux&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=black)
