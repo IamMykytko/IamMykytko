@@ -22,6 +22,7 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
