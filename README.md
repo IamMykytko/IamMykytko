@@ -13,6 +13,7 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 
 ---
 ### Top technologies
+###### HTML+CSS layout
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black)
@@ -20,6 +21,7 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PostCSS-%23DD3A0A?style=for-the-badge&logo=postcss&logoColor=white&labelColor=black)
 
+###### JS/TS + Libraries/Frameworks (and other programming languages)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=black)
@@ -31,12 +33,14 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/Express.js-%2321759B?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Nest.js-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=black)
 
+###### Data & DBMS
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white&labelColor=black)
 
+###### DevOps and Server's parts
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23301934?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black)
@@ -49,6 +53,7 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/Ngrok-%231F1E37?style=for-the-badge&logo=ngrok&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Apache-%23D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=black)
 
+###### Linux, Bash-scripting & Distributions of Linux
 ![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=Arch%20Linux&logoColor=white&labelColor=black)
@@ -56,8 +61,11 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/Fedora-%2351A2DA?style=for-the-badge&logo=fedora&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Kali%20Linux-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=white&labelColor=black)
 
+###### Graphic Design
 ![Static Badge](https://img.shields.io/badge/GIMP-%238C8073?style=for-the-badge&logo=gimp&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Kdenlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=white&labelColor=black)
+
+###### Other
 
 ---
 ### My stats
