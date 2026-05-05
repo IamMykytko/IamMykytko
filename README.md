@@ -42,19 +42,15 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 <details>
   <summary>My repos</summary>
   <ul>
-    <li><a href='' target='_blank'>Portfolio-site</a></li>
-    <li><a href='' target='_blank'></a></li>
-    <li><a href='' target='_blank'></a></li>
-    <li><a href='' target='_blank'></a></li>
+    <li><a href='https://gtihub.com/IamMykytko/Portfolio' target='_blank'>My portfolio-project</a></li>
+    <li><a href='https://github.com/DiD0LEKSA/CoCUA-public-' target='_blank'>Ukrainizator for the game named "Call of Cthulhu" (repo owned by my friend)</a></li>
+    <li><a href='https://gtihub.com/IamMykytko/pet-proj-calculator' target='_blank'>Pet-project №1 - "Calucaltor"</a></li>
   </ul>
 </details>
 <details>
   <summary>Other projects in which I participate</summary>
   <ul>
-    <li><a href='' target='_blank'></a></li>
-    <li><a href='' target='_blank'></a></li>
-    <li><a href='' target='_blank'></a></li>
-    <li><a href='' target='_blank'></a></li>
+    <li><a href='https://github.com/IamMykytko/Call-of-Cthulhu-ukrainizator' target='_blank'>Ukrainizator for the game named "Call of Cthulhu"</a></li>
   </ul>
 </details>
 <details>
@@ -62,7 +58,16 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
   <ul>
     <li><a href='https://gist.github.com/IamMykytko/1f836ffc67898d2ff1ba5fe720347c8b' target='_blank'>Bash-scripts, something useful for Linux (linux-commands)</a></li>
     <li><a href='https://gist.github.com/IamMykytko/d51b9ee3658f5a6d1e07b8368b55238c' target='_blank'>Useful commands for Windows (PowerShall, CMD)</a></li>
-    <li><a href='' target='_blank'></a></li>
-    <li><a href='' target='_blank'></a></li>
+    <!-- <li><a href='' target='_blank'></a></li>
+    <li><a href='' target='_blank'></a></li> -->
+  </ul>
+</details>
+<details>
+  <summary>Other...</summary>
+  <ul>
+    <li><a href='https://github.com/IamMykytko/gmod-additional-content' target='_blank'>Garry's Mod additional texture and other content packs</a></li>
+    <li><a href='https://github.com/IamMykytko/Blender-Source-Tools' target='_blank'>Blender add-on "Source tools"</a></li>
+    <li><a href='https://github.com/IamMykytko/Crowbar-GMod' target='_blank'>Crowbar Tool for Garry's Mod</a></li>
+    <!-- <li><a href='' target='_blank'></a></li> -->
   </ul>
 </details>
