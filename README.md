@@ -19,18 +19,23 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PostCSS-%23DD3A0A?style=for-the-badge&logo=postcss&logoColor=white&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Vite-%239135FF?style=for-the-badge&logo=vite&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Next.js-%23FFE500?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23301934?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black)
@@ -38,12 +43,14 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/Azure-%23008AD7?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Podman-%23892CA0?style=for-the-badge&logo=podman&logoColor=white&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=Arch%20Linux&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Fedora-%2351A2DA?style=for-the-badge&logo=fedora&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Kali%20Linux-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=white&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/GIMP-%238C8073?style=for-the-badge&logo=gimp&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Kdenlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=white&labelColor=black)
 
