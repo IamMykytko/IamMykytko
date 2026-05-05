@@ -45,7 +45,7 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/GitHub-%23301934?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Bitbucket-%230052CC?style=for-the-badge&logo=bitbucket&logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Azure-%23008AD7?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Azure-%23008AD7?style=for-the-badge&logo=astra&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Podman-%23892CA0?style=for-the-badge&logo=podman&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black)
@@ -64,6 +64,7 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ###### Graphic Design
 ![Static Badge](https://img.shields.io/badge/GIMP-%238C8073?style=for-the-badge&logo=gimp&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Kdenlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Adobe%20Tools-%23CC0000?style=for-the-badge&logo=graphite_editor&logoColor=white&labelColor=black)
 
 ###### Other
 
