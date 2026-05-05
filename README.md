@@ -30,6 +30,7 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Podman-%23892CA0?style=for-the-badge&logo=podman&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=Arch%20Linux&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=black)
