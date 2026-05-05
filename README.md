@@ -28,6 +28,8 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/Next.js-%23FFE500?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Express.js-%2321759B?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Nest.js-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
@@ -42,6 +44,10 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 ![Static Badge](https://img.shields.io/badge/Azure-%23008AD7?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Podman-%23892CA0?style=for-the-badge&logo=podman&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Ngrok-%231F1E37?style=for-the-badge&logo=ngrok&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Apache-%23D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
