@@ -90,6 +90,7 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
     <li><a href='https://github.com/IamMykytko/Portfolio' target='_blank'>My portfolio-project</a></li>
     <li><a href='https://github.com/IamMykytko/Call-of-Cthulhu-ukrainizator' target='_blank'>Ukrainizator for the game named "Call of Cthulhu"</a></li>
     <li><a href='https://github.com/IamMykytko/pet-proj-calculator' target='_blank'>Pet-project №1 - "Calucaltor"</a></li>
+    <li><a href='https://github.com/IamMykytko/pet-proj-task-manager' target='_blank'>Pet-project №2 - "Task Manager" (via Bootstrap)</a></li>
   </ul>
 </details>
 <details>
