@@ -111,9 +111,9 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
 <details>
   <summary>Certificates</summary>
   <ul>
-    <li><img src='https://github.com/IamMykytko/IamMykytko/certificates/Python for Beginners_certificate.jpg' alt='' /></li>
-    <li><img src='https://github.com/IamMykytko/IamMykytko/certificates/Python Intermediate_certificate.jpg' alt='' /></li>
-    <li><img src='https://github.com/IamMykytko/IamMykytko/certificates/TypeScript for Beginners: Code in the AI Era_certificate.jpg' alt='' /></li>
+    <li><img src='https://github.com/IamMykytko/IamMykytko/blob/main/certificates/Python%20Intermediate_certificate.jpg' alt='' /></li>
+    <li><img src='https://github.com/IamMykytko/IamMykytko/blop/main/certificates/Python%20Intermediate_certificate.jpg' alt='' /></li>
+    <li><img src='https://github.com/IamMykytko/IamMykytko/blob/main/certificates/TypeScript%20for%20Beginners%3A%20Code%20in%20the%20AI%20Era_certificate.jpg' alt='' /></li>
     <li><img src='' alt='' /></li>
   </ul>
 </details>
