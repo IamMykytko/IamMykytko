@@ -109,6 +109,15 @@ I'm Mykyta Mahomadov, a Trainee Full-Stack Developer. Experienced in Front-end a
   </ul>
 </details>
 <details>
+  <summary>Certificates</summary>
+  <ul>
+    <li><img src='' alt='' /></li>
+    <li><img src='' alt='' /></li>
+    <li><img src='' alt='' /></li>
+    <li><img src='' alt='' /></li>
+  </ul>
+</details>
+<details>
   <summary>Other...</summary>
   <ul>
     <li><a href='https://github.com/IamMykytko/gmod-additional-content' target='_blank'>Garry's Mod additional texture and other content packs</a></li>
